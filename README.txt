@@ -1,6 +1,8 @@
 Proyecto Máquina Enigma
 
-Autores: Carles Barranco y Alexis Godoy
+BASICAMENTE ES EL MISMO PROYECTO DEL AÑO PASADO (ESTOY REPITIENDO) PERO CORREGI LA FUNCION DE LOS ROTORES 
+
+Autores: Alexis Godoy
 
 Descripción
 
